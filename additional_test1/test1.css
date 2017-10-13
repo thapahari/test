@@ -1,0 +1,14 @@
+.view_name {
+    color: #0000ff;
+}
+
+
+.btn {
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    width: 340px;
+    height: 140px;
+    background-color: #ff0000;
+    border: solid 20px #ffeeaa;
+}
