@@ -1,7 +1,7 @@
 'use strict';
 
 $(function(){
-    console.log("test");
+   
     console.log("neppal");
     var divBtn1 = $('#btn1');
     var divBox1 = $('#box1');
